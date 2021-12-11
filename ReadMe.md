@@ -3,7 +3,7 @@
 # [Link](http://gaoqian310.github.io)
 
 
-## Updated
+## Update Log
 
 #### on December 10th
 
