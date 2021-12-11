@@ -7,8 +7,8 @@
 
 #### on December 10th
 
-Created homepage for projects
+- Created homepage for projects
 
-Created links for other pages
+- Created links for other pages
 
-Populate projects infomation
+- Populate projects infomation
