@@ -16,7 +16,7 @@
 - Work on subpages
 - improve menus, jump to sections and other pages
 - insert favicon
-
+- link each projects to its own page
 
 
 
