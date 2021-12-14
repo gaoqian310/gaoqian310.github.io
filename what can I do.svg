@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="563.5417px" preserveAspectRatio="none" style="width:1008px;height:563px;background:#00000000;" version="1.1" viewBox="0 0 1008 563" width="1008.3333px" zoomAndPan="magnify"><defs><linearGradient id="g2vebfvuhtgjy0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#7C9AB9"/><stop offset="100%" stop-color="#304D6D"/></linearGradient></defs><g><!--MD5=[f50ff5e4cd64f259303fc83dba1819fc]
+entity database--><path d="M844.7917,259.375 C844.7917,248.9583 894.7917,248.9583 894.7917,248.9583 C894.7917,248.9583 944.7917,248.9583 944.7917,259.375 L944.7917,296.1426 C944.7917,306.5592 894.7917,306.5592 894.7917,306.5592 C894.7917,306.5592 844.7917,306.5592 844.7917,296.1426 L844.7917,259.375 " fill="#808080" style="stroke:#304D6D;stroke-width:1.0416666666666667;"/><path d="M844.7917,259.375 C844.7917,269.7917 894.7917,269.7917 894.7917,269.7917 C894.7917,269.7917 944.7917,269.7917 944.7917,259.375 " fill="none" style="stroke:#304D6D;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="68.75" x="860.4167" y="292.7032">database</text><!--MD5=[e4a8075cc378d5866b51e10e7e6d7549]
+entity Azure--><path d="M806.8297,396.887 C809.9946,389.068 816.4547,385.7619 823.0699,393.2188 C825.772,383.9295 831.851,382.2517 838.6586,389.3019 C846.3848,381.7245 852.5442,384.8443 855.9741,393.8011 C862.3606,386.0866 869.6166,385.6178 874.6227,395.2824 C885.1977,401.7096 885.1785,408.0574 876.1408,415.9268 C886.6552,423.2885 885.9288,432.4583 874.509,438.2139 C868.6406,445.9471 861.8121,447.78 856.3601,437.7877 C852.2825,446.1301 844.3726,446.936 839.3853,438.7204 C834.2171,447.5593 828.4892,445.7801 822.7692,439.3196 C817.1816,445.3691 810.4064,444.2021 806.8696,436.881 C801.3695,436.4624 799.0644,432.6908 801.3871,427.634 C795.6555,427.3905 792.929,423.0983 795.5692,417.8676 C792.0143,411.9056 794.3304,406.563 801.531,406.0073 C798.8973,400.5196 801.3988,397.6894 806.8297,396.887 " fill="#FFFFFF" style="stroke:#808080;stroke-width:1.0416666666666667;"/><text fill="#333333" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="42.7083" x="817.1875" y="420.8282">Azure</text><!--MD5=[5635e94f4a25d37ff1c84eabab244f8a]
+entity Qian Gao--><ellipse cx="769.7917" cy="249.4792" fill="url(#g2vebfvuhtgjy0)" rx="16.6667" ry="16.6667" style="stroke:#304D6D;stroke-width:1.5625;"/><path d="M769.7917,270.3125 C773.9583,270.3125 777.0833,270.3125 781.25,266.1458 C789.5833,266.1458 797.9167,274.4792 797.9167,282.8125 L797.9167,286.9792 C797.9167,291.1458 793.75,295.3125 789.5833,295.3125 L750,295.3125 C745.8333,295.3125 741.6667,291.1458 741.6667,286.9792 L741.6667,282.8125 C741.6667,274.4792 750,266.1458 758.3333,266.1458 C762.5,270.3125 765.625,270.3125 769.7917,270.3125 " fill="url(#g2vebfvuhtgjy0)" style="stroke:#304D6D;stroke-width:1.5625;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="66.6667" x="736.4583" y="315.6199">Qian Gao</text><ellipse cx="598.842" cy="277.7028" fill="#808080" rx="95.1962" ry="22.4945" style="stroke:#304D6D;stroke-width:2.0833333333333335;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="107.2917" x="545.1962" y="280.6681">Data Analytics</text><ellipse cx="362.6888" cy="277.7028" fill="#A9A9A9" rx="94.4596" ry="22.4945" style="stroke:#304D6D;stroke-width:2.0833333333333335;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="106.25" x="309.5638" y="280.6681">Data Scientist</text><ellipse cx="598.8574" cy="146.4528" fill="#A9A9A9" rx="86.3574" ry="22.4945" style="stroke:#304D6D;stroke-width:2.0833333333333335;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="94.7917" x="551.4615" y="149.4181">Data Analyst</text><ellipse cx="609.5638" cy="415.7236" fill="#A9A9A9" rx="94.4596" ry="22.4945" style="stroke:#304D6D;stroke-width:2.0833333333333335;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="106.25" x="556.4388" y="418.6889">Data Engineer</text><ellipse cx="843.6427" cy="39.1611" fill="url(#g2vebfvuhtgjy0)" rx="64.9968" ry="22.4945" style="stroke:#304D6D;stroke-width:2.0833333333333335;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="64.5833" x="811.351" y="42.1264">Power BI</text><ellipse cx="681.4108" cy="39.1611" fill="url(#g2vebfvuhtgjy0)" rx="60.5774" ry="22.4945" style="stroke:#304D6D;stroke-width:2.0833333333333335;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="58.3333" x="652.2441" y="42.1264">Tableau</text><ellipse cx="516.9015" cy="39.1611" fill="url(#g2vebfvuhtgjy0)" rx="67.9431" ry="22.4945" style="stroke:#304D6D;stroke-width:2.0833333333333335;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="68.75" x="482.5265" y="42.1264">IBM SPSS</text><ellipse cx="332.5481" cy="39.1611" fill="url(#g2vebfvuhtgjy0)" rx="80.4648" ry="22.4945" style="stroke:#304D6D;stroke-width:2.0833333333333335;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="86.4583" x="289.319" y="42.1264">IBM Cognos</text><ellipse cx="126.1581" cy="277.8358" fill="url(#g2vebfvuhtgjy0)" rx="105.8456" ry="23.6691" style="stroke:#304D6D;stroke-width:2.0833333333333335;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="130.2083" x="61.0539" y="280.8011">Machine Learning</text><ellipse cx="362.6237" cy="146.4528" fill="url(#g2vebfvuhtgjy0)" rx="56.8946" ry="22.4945" style="stroke:#304D6D;stroke-width:2.0833333333333335;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="53.125" x="336.0612" y="149.4181">Python</text><ellipse cx="113.336" cy="415.7236" fill="url(#g2vebfvuhtgjy0)" rx="96.6693" ry="22.4945" style="stroke:#304D6D;stroke-width:2.0833333333333335;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="109.375" x="58.6485" y="418.6889">Deep Learning</text><ellipse cx="362.7603" cy="415.7812" fill="url(#g2vebfvuhtgjy0)" rx="115.8853" ry="25.6771" style="stroke:#304D6D;stroke-width:2.0833333333333335;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="156.25" x="284.6353" y="418.7465">Artificial Intelligence</text><ellipse cx="382.303" cy="529.8981" fill="url(#g2vebfvuhtgjy0)" rx="100.5322" ry="22.6064" style="stroke:#304D6D;stroke-width:2.0833333333333335;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="115.625" x="324.4905" y="532.8634">Data Collection</text><ellipse cx="609.311" cy="529.7861" fill="url(#g2vebfvuhtgjy0)" rx="90.0402" ry="22.4945" style="stroke:#304D6D;stroke-width:2.0833333333333335;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="100" x="559.311" y="532.7514">Data Pipeline</text><ellipse cx="834.6008" cy="529.7861" fill="url(#g2vebfvuhtgjy0)" rx="98.1425" ry="22.4945" style="stroke:#304D6D;stroke-width:2.0833333333333335;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="111.4583" x="778.8716" y="532.7514">Data Modelling</text><ellipse cx="957.141" cy="415.7236" fill="url(#g2vebfvuhtgjy0)" rx="39.9535" ry="22.4945" style="stroke:#304D6D;stroke-width:2.0833333333333335;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacing" textLength="29.1667" x="942.5576" y="418.6889">SQL</text><!--MD5=[302f2ebc666f0f31a338b17bcabb24c3]
+reverse link Data Analytics to Qian Gao--><path d="M699.85,277.6042 C710.3021,277.6042 720.7531,277.6042 731.2042,277.6042 " fill="none" id="Data Analytics-backto-Qian Gao" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="694.3844,277.6042,703.7594,281.7708,699.5927,277.6042,703.7594,273.4375,694.3844,277.6042" style="stroke:#446E9B;stroke-width:3.125;"/><!--MD5=[30b1abc27adc20ac6cc93908b42fc834]
+link Qian Gao to database--><path d="M808.3656,277.6042 C818.6198,277.6042 828.8729,277.6042 839.1271,277.6042 " fill="none" id="Qian Gao-to-database" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="844.4896,277.6042,835.1146,273.4375,839.2813,277.6042,835.1146,281.7708,844.4896,277.6042" style="stroke:#446E9B;stroke-width:3.125;"/><!--MD5=[f3228eb4695d5a67b02e9a9a93521485]
+reverse link Data Scientist to Data Analytics--><path d="M462.5948,277.6042 C476.2042,277.6042 489.8125,277.6042 503.4208,277.6042 " fill="none" id="Data Scientist-backto-Data Analytics" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="457.176,277.6042,466.551,281.7708,462.3844,277.6042,466.551,273.4375,457.176,277.6042" style="stroke:#446E9B;stroke-width:3.125;"/><!--MD5=[9d097ee9fe98ce3eeb9df9db5e211b7f]
+reverse link Data Analyst to Data Analytics--><path d="M598.9583,174.2469 C598.9583,198.1521 598.9583,232.6792 598.9583,254.8719 " fill="none" id="Data Analyst-backto-Data Analytics" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="598.9583,169.0156,594.7917,178.3906,598.9583,174.224,603.125,178.3906,598.9583,169.0156" style="stroke:#446E9B;stroke-width:3.125;"/><!--MD5=[ef4d687071bd763e1396fbe1ab7a120e]
+link Data Analytics to Data Engineer--><path d="M600.6094,300.1854 C602.4302,323.949 605.3625,362.2167 607.3281,387.8708 " fill="none" id="Data Analytics-to-Data Engineer" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="607.7323,393.1448,611.1717,383.4793,607.335,387.9516,602.8626,384.1149,607.7323,393.1448" style="stroke:#446E9B;stroke-width:3.125;"/><!--MD5=[efeabc86400529b2acacdfec1bfa4d94]
+reverse link Power BI to Data Analyst--><path d="M799.6302,59.0667 C754.9146,78.2844 686.1844,107.824 641.8979,126.8573 " fill="none" id="Power BI-backto-Data Analyst" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="804.4198,57.0073,794.1613,56.8832,799.6351,59.0649,797.4535,64.5387,804.4198,57.0073" style="stroke:#446E9B;stroke-width:3.125;"/><!--MD5=[148d887c8c7b4a69b12e88772782ca36]
+reverse link Tableau to Data Analyst--><path d="M661.5208,65.3281 C647.45,83.3177 628.7458,107.2302 615.4646,124.2094 " fill="none" id="Tableau-backto-Data Analyst" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="664.9917,60.8896,655.9343,65.7079,661.7833,64.9924,662.4987,70.8413,664.9917,60.8896" style="stroke:#446E9B;stroke-width:3.125;"/><!--MD5=[f47728458b3d68aeebbe8af1c259bcdc]
+reverse link IBM SPSS to Data Analyst--><path d="M536.3958,65.3281 C550.4667,83.3177 569.1708,107.2302 582.4521,124.2094 " fill="none" id="IBM SPSS-backto-Data Analyst" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="532.925,60.8896,535.4179,70.8413,536.1334,64.9924,541.9824,65.7079,532.925,60.8896" style="stroke:#446E9B;stroke-width:3.125;"/><!--MD5=[9cf1daca2e45b97cc8fc0d41e8c7cd47]
+reverse link IBM Cognos to Data Analyst--><path d="M381.8938,59.674 C431.0083,79.051 505.5854,108.474 553.2844,127.2927 " fill="none" id="IBM Cognos-backto-Data Analyst" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="376.926,57.7135,384.1169,65.0309,381.7707,59.6255,387.1761,57.2794,376.926,57.7135" style="stroke:#446E9B;stroke-width:3.125;"/><!--MD5=[e08a5a01b2e6e9afb890934c83530120]
+reverse link Machine Learning to Data Scientist--><path d="M237.1823,277.6042 C247.4708,277.6042 257.7604,277.6042 268.05,277.6042 " fill="none" id="Machine Learning-backto-Data Scientist" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="231.801,277.6042,241.176,281.7708,237.0094,277.6042,241.176,273.4375,231.801,277.6042" style="stroke:#446E9B;stroke-width:3.125;"/><!--MD5=[bc9251eef9a0599aeadc5e8e3a5726ce]
+reverse link Python to Data Scientist--><path d="M362.5,174.2469 C362.5,198.1521 362.5,232.6792 362.5,254.8719 " fill="none" id="Python-backto-Data Scientist" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="362.5,169.0156,358.3333,178.3906,362.5,174.224,366.6667,178.3906,362.5,169.0156" style="stroke:#446E9B;stroke-width:3.125;"/><!--MD5=[47ace8636e701247008f9634aeab6573]
+link Data Scientist to Deep Learning--><path d="M326.299,298.4125 C280.6656,323.3292 202.4208,366.0531 154.6021,392.1635 " fill="none" id="Data Scientist-to-Deep Learning" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="149.7865,394.7927,160.0115,393.9553,154.3574,392.296,156.0167,386.6419,149.7865,394.7927" style="stroke:#446E9B;stroke-width:3.125;"/><!--MD5=[aac9036102e551efac80fafe0cb949b7]
+link Data Scientist to Artificial Intelligence--><path d="M362.5,300.1854 C362.5,322.9708 362.5,359.0906 362.5,384.6396 " fill="none" id="Data Scientist-to-Artificial Intelligence" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="362.5,389.9229,366.6667,380.5479,362.5,384.7146,358.3333,380.5479,362.5,389.9229" style="stroke:#446E9B;stroke-width:3.125;"/><!--MD5=[9b08f56f58e5f65c0956b2e4a01e2db4]
+link Data Engineer to Data Collection--><path d="M569.8198,436.1719 C530.0125,455.8017 468.7146,486.0289 427.126,506.5369 " fill="none" id="Data Engineer-to-Data Collection" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="422.1552,508.9883,432.4063,508.5789,426.8264,506.6848,428.7206,501.105,422.1552,508.9883" style="stroke:#446E9B;stroke-width:3.125;"/><!--MD5=[43e398797e554547960763b58e55069d]
+link Data Engineer to Data Pipeline--><path d="M609.375,438.2573 C609.375,456.3823 609.375,482.3594 609.375,501.8179 " fill="none" id="Data Engineer-to-Data Pipeline" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="609.375,507.1214,613.5417,497.7464,609.375,501.913,605.2083,497.7464,609.375,507.1214" style="stroke:#446E9B;stroke-width:3.125;"/><!--MD5=[7624547b6f48ff94b7bcac1d57f327ab]
+link Data Engineer to Data Modelling--><path d="M648.5667,436.1719 C688.0094,455.8017 748.7448,486.0289 789.951,506.5369 " fill="none" id="Data Engineer-to-Data Modelling" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="794.8771,508.9883,788.3417,501.0801,790.2146,506.6671,784.6277,508.54,794.8771,508.9883" style="stroke:#446E9B;stroke-width:3.125;"/><!--MD5=[41a74fe99f3212ab0441ebbc60bfd2fd]
+link database to SQL--><path d="M907.5906,306.4833 C918.6594,330.5594 934.5417,365.1021 945.3521,388.6146 " fill="none" id="database-to-SQL" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="947.5781,393.4573,947.4478,383.1989,945.4025,388.7251,939.8763,386.6799,947.5781,393.4573" style="stroke:#446E9B;stroke-width:3.125;"/><!--MD5=[65b9e1a3a61dd5f3041db566a00e4600]
+link database to Azure--><path d="M883.2729,306.4833 C874.3083,328.1469 861.8365,358.2865 852.3396,381.2385 " fill="none" id="database-to-Azure" style="stroke:#446E9B;stroke-width:3.125;"/><polygon fill="#446E9B" points="850.2385,386.3167,857.6728,379.2467,852.2297,381.504,849.9725,376.0609,850.2385,386.3167" style="stroke:#446E9B;stroke-width:3.125;"/><!--MD5=[3612e32137e8461ea7350a0819e3d348]
+@startuml
+!theme spacelab
+skinparam actorStyle awesome
+
+
+database database
+cloud Azure
+
+
+:Qian Gao: -left-> (Data Analytics)
+:Qian Gao: -right-> database
+
+
+
+(Data Analytics) -left-> (Data Scientist)
+(Data Analytics) -up-> (Data Analyst)
+(Data Analytics) -down-> (Data Engineer)
+
+(Data Analyst) -up-> (Power BI)
+(Data Analyst) -up-> (Tableau)
+(Data Analyst) -up-> (IBM SPSS)
+(Data Analyst) -up-> (IBM Cognos)
+
+
+(Data Scientist) -left-> (Machine Learning)
+(Data Scientist) -up-> (Python)
+(Data Scientist) - -> (Deep Learning)
+(Data Scientist) - -> (Artificial Intelligence)
+
+(Data Engineer) -down-> (Data Collection)
+(Data Engineer) -down-> (Data Pipeline)
+(Data Engineer) -down-> (Data Modelling)
+
+
+database - -> (SQL)
+database - -> Azure
+
+database database #gray
+usecase (Data Analytics) #gray
+usecase (Data Analyst) #darkgray
+usecase (Data Engineer) #darkgray
+usecase (Data Scientist) #darkgray
+
+
+
+skinparam cloud {
+BackgroundColor White
+BorderColor Gray
+}
+@enduml
+
+@startuml
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+
+
+
+
+
+
+<style>
+  root {
+    BackgroundColor transparent
+    FontColor #ffffff
+    HyperLinkColor #fd7e14
+    LineColor #304d6d
+    LineThickness 1
+    Margin 10
+    Padding 6
+    Shadowing 0.0
+  }
+  node {
+   Padding 15
+   roundcorner 20
+   BackgroundColor #446e9b-#304d6d
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  groupHeader {
+    BackgroundColor #999999
+    FontColor #3399f3
+    FontStyle bold
+  }
+  header {
+    LineThickness 0
+  }
+  referenceHeader {
+    BackgroundColor transparent
+    FontColor #333333
+    FontStyle bold
+  }
+  separator {
+    BackgroundColor #ffffff
+    FontColor transparent
+    FontStyle bold
+  }
+  title {
+	FontSize 20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor  #b8b8b8-#999999
+	FontColor #446e9b
+	BorderColor #999999
+  }
+  nwdiagDiagram {
+	network {
+			FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d    
+		LineColor #446e9b
+		LineThickness 1.0
+		FontColor #304d6d
+	}
+	server {
+			FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	}
+	arrow {
+		FontColor #304d6d
+		LineColor #304d6d
+	}
+	group {
+		BackGroundColor #eeeeee
+		LineColor #a7a7a7
+		LineThickness 2.0
+		Margin 5
+		Padding 5
+	}
+  }
+  ganttDiagram {
+	task {
+			FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+		LineColor #446e9b
+		Margin 10
+		Padding 6
+	}
+	note {
+		FontColor #ffffff
+		LineColor #246baa
+		BackGroundColor #3399f3
+	}
+	separator {
+		LineColor #999999
+		BackGroundColor #999999-#6b6b6b
+		FontColor #ffffff
+	}
+	milestone {
+		FontColor #3399f3
+		FontSize 16
+		FontStyle italic
+		BackGroundColor #999999
+		LineColor #6b6b6b
+	}
+	timeline {
+		BackgroundColor #999999
+		FontColor #ffffff
+	}
+	closed {
+		BackgroundColor #945200
+		FontColor #ffffff
+	}
+  }
+</style>
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            #333333
+skinparam stereotype {
+    CBackgroundColor #b8b8b8
+    CBorderColor #6b6b6b
+    ABackgroundColor #4cbc5c
+    ABorderColor #32a243
+    IBackgroundColor #dc4e4d
+    IBorderColor #900100
+    EBackgroundColor #e19e4d
+    EBorderColor #945200
+    NBackgroundColor #70b8f7
+    NBorderColor #246baa
+}
+skinparam title {
+	FontColor	                 #304d6d
+	BorderColor	                 #6b6b6b
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              #b8b8b8-#999999
+}
+
+skinparam legend {
+	BackgroundColor #999999
+	BorderColor #6b6b6b
+	FontColor #eeeeee
+}
+
+skinparam swimlane {
+	BorderColor #3399f3
+	BorderThickness 2
+	TitleBackgroundColor  #b8b8b8-#999999
+	TitleFontColor #304d6d
+}
+
+
+skinparam activity {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	BarColor #3cb521
+	StartColor #3399f3
+	EndColor #3399f3
+	DiamondBackgroundColor #b8b8b8-#6b6b6b
+  	DiamondBorderColor #6b6b6b
+  	DiamondFontColor #ffffff
+}
+
+
+skinparam participant {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #446e9b
+	FontColor #ffffff
+}
+
+
+skinparam sequence {
+	BorderColor #446e9b
+	TitleFontColor #446e9b
+	BackgroundColor transparent
+	StartColor #446e9b
+	EndColor #446e9b
+	BoxBackgroundColor transparent
+	BoxBorderColor #333333
+	BoxFontColor #333333
+	DelayFontColor #333333
+	LifeLineBorderColor #999999
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #6b6b6b-#6b6b6b
+	GroupBorderColor #333333
+	GroupFontColor #333333
+	GroupHeaderFontColor #3399f3
+	GroupBackgroundColor #6b6b6b-#6b6b6b
+	GroupHeaderBackgroundColor transparent
+	DividerBackgroundColor #707070-#242424
+    DividerBorderColor #333333
+    DividerBorderThickness 2
+    DividerFontColor #eeeeee
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #333333
+	ReferenceFontColor #333333
+	ReferenceHeaderFontColor #3399f3
+	ReferenceHeaderBackgroundColor #6b6b6b-#6b6b6b
+	StereotypeFontColor #ffffff
+}
+
+
+skinparam partition {
+	BorderColor #446e9b
+	FontColor #446e9b
+	BackgroundColor transparent
+}
+
+
+skinparam collections {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam control {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam entity {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam boundary {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam agent {
+	BackgroundColor #d47500
+	BorderColor #e19e4d
+	FontColor #333333
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #70b8f7-#246baa
+	BorderColor #246baa
+	FontColor #ffffff
+}
+
+
+skinparam artifact {
+	BackgroundColor #333333
+	BorderColor #242424
+	FontColor #eeeeee
+}
+
+
+skinparam component {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam interface {
+	BackgroundColor  #900100
+	BorderColor  #cd0200
+	FontColor #333333
+}
+
+
+skinparam storage {
+	BackgroundColor #d47500
+  	BorderColor #945200
+	FontColor #ffffff
+}
+
+
+skinparam node {
+	BackgroundColor  #999999
+	BorderColor #eeeeee
+	FontColor #eeeeee
+}
+
+
+skinparam cloud {
+	BackgroundColor #F2FCFE-#eeeeee
+	BorderColor #F2FCFE
+	FontColor #333333
+}
+
+
+skinparam database {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam class {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	FontColor #ffffff
+	HeaderBackgroundColor #7c9ab9-#446e9b
+	StereotypeFontColor #eeeeee
+	BorderThickness 1
+	AttributeFontColor #eeeeee
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	StereotypeFontColor #333333
+	BorderThickness 1
+	AttributeFontColor #ffffff
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	BorderThickness 2
+	StereotypeFontColor #446e9b
+}
+
+
+skinparam rectangle {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	BackgroundColor #b8b8b8-#6b6b6b
+	BorderThickness 2
+	StereotypeFontColor #446e9b
+}
+
+
+skinparam package {
+	BackgroundColor #b8b8b8-#6b6b6b
+  	BorderColor #446e9b
+	FontColor #446e9b
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor #b8b8b8-#6b6b6b
+  	BorderColor #d47500
+	FontColor #d47500
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor #b8b8b8-#6b6b6b
+  	BorderColor #3399f3
+	FontColor #3399f3
+	BorderThickness 2
+}
+
+
+skinparam state {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	StartColor #3399f3
+	EndColor #3399f3
+	AttributeFontColor #ffffff
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam card {
+	BackgroundColor #70b8f7-#246baa
+	BorderColor #246baa
+	FontColor #ffffff
+}
+
+
+skinparam file {
+	BackgroundColor #6b6b6b-#6b6b6b
+	BorderColor #eeeeee
+	FontColor #eeeeee
+}
+
+
+skinparam stack {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+skinparam actorStyle awesome
+
+
+database database
+cloud Azure
+
+
+:Qian Gao: -left-> (Data Analytics)
+:Qian Gao: -right-> database
+
+
+
+(Data Analytics) -left-> (Data Scientist)
+(Data Analytics) -up-> (Data Analyst)
+(Data Analytics) -down-> (Data Engineer)
+
+(Data Analyst) -up-> (Power BI)
+(Data Analyst) -up-> (Tableau)
+(Data Analyst) -up-> (IBM SPSS)
+(Data Analyst) -up-> (IBM Cognos)
+
+
+(Data Scientist) -left-> (Machine Learning)
+(Data Scientist) -up-> (Python)
+(Data Scientist) - -> (Deep Learning)
+(Data Scientist) - -> (Artificial Intelligence)
+
+(Data Engineer) -down-> (Data Collection)
+(Data Engineer) -down-> (Data Pipeline)
+(Data Engineer) -down-> (Data Modelling)
+
+
+database - -> (SQL)
+database - -> Azure
+
+database database #gray
+usecase (Data Analytics) #gray
+usecase (Data Analyst) #darkgray
+usecase (Data Engineer) #darkgray
+usecase (Data Scientist) #darkgray
+
+
+
+skinparam cloud {
+BackgroundColor White
+BorderColor Gray
+}
+@enduml
+
+PlantUML version 1.2021.16beta3(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
