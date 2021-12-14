@@ -20,6 +20,8 @@
 - insert favicon
 - link each projects to its own page
 
+#### December 13th
+- Add What I do Section
 
 
 ###### Credits:
