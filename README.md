@@ -3,7 +3,7 @@
 # 👉[Link](http://gaoqian310.github.io)
 
 
-!What I do(/what_I%20_do.svg)
+!What I do(./what_I%20_do.svg)
 
 ## Update Log
 
