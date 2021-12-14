@@ -3,6 +3,8 @@
 # 👉[Link](http://gaoqian310.github.io)
 
 
+![alt text](https://github.com/gaoqian310/gaoqian310.github.io/blob/main/what can i do.svg?raw=true)
+
 ## Update Log
 
 #### December 10th
