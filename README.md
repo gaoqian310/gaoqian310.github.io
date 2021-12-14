@@ -1,8 +1,8 @@
 # Please click the link below to view the webpage
 
-# 👉[Link](http://gaoqian310.github.io)
+# 👉[Webpage Link](http://gaoqian310.github.io)
 
-# What I do
+# What I do:
 ![What I do](./what_I%20_do.svg)
 
 ## Update Log
