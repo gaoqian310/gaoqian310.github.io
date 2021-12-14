@@ -3,7 +3,7 @@
 # 👉[Link](http://gaoqian310.github.io)
 
 
-![alt text](https://github.com/gaoqian310/gaoqian310.github.io/blob/main/what can i do.svg?raw=true)
+!What I do(https://github.com/gaoqian310/gaoqian310.github.io/blob/main/what_I_do.svg?raw=true)
 
 ## Update Log
 
