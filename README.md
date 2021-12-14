@@ -3,7 +3,7 @@
 # 👉[Link](http://gaoqian310.github.io)
 
 
-!What I do(https://github.com/gaoqian310/gaoqian310.github.io/blob/c86fb5fdf60f2416dd650729447cd9f9afb5947b/what_I%20_do.svg)
+!What I do(/what_I%20_do.svg)
 
 ## Update Log
 
